@@ -1,0 +1,14 @@
+{
+  "name": "team",
+  "version": "1.0.0",
+  "description": "Thsi is a developer team REST API",
+  "main": "index.js",
+  "scripts": {
+    "ananda" : "json-server --watch db.json --port 5050"
+  },
+  "author": "pk",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

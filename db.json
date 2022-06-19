@@ -1,0 +1,30 @@
+
+{
+    "devs": [
+        {
+            "id": 1,
+            "name" :" Ahsraful",
+            "age" : 10,
+            "skill":"laravel Dev",
+            "location": "Mirpur",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjYZb5f2M9TUCMLYVZMp7gSw3yyfYBobM7cXVQG24KkgyjjJfmxBU8wTVndS2OjwbpkHE&usqp=CAU"
+        },
+        {
+            "id": 2,
+            "name" :" Rahmen",
+            "age" : 9,
+            "skill":"WP Dev",
+            "location": "Uttara",
+            "photo": "https://unitedthemes.com/wp-content/uploads/2018/09/team2.jpg"
+        },
+        {
+            "id": 3,
+            "name" :" Rana",
+            "age" : 91,
+            "skill":"React Dev",
+            "location": "Uttara",
+            "photo": "https://cdn.powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-13.png"
+        }
+        
+    ]
+}
