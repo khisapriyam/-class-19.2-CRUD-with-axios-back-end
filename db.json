@@ -1,30 +1,48 @@
-
 {
-    "devs": [
-        {
-            "id": 1,
-            "name" :" Ahsraful",
-            "age" : 10,
-            "skill":"laravel Dev",
-            "location": "Mirpur",
-            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjYZb5f2M9TUCMLYVZMp7gSw3yyfYBobM7cXVQG24KkgyjjJfmxBU8wTVndS2OjwbpkHE&usqp=CAU"
-        },
-        {
-            "id": 2,
-            "name" :" Rahmen",
-            "age" : 9,
-            "skill":"WP Dev",
-            "location": "Uttara",
-            "photo": "https://unitedthemes.com/wp-content/uploads/2018/09/team2.jpg"
-        },
-        {
-            "id": 3,
-            "name" :" Rana",
-            "age" : 91,
-            "skill":"React Dev",
-            "location": "Uttara",
-            "photo": "https://cdn.powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-13.png"
-        }
-        
-    ]
+  "developers": [
+    {
+      "id": 1,
+      "name": "test",
+      "email": "robiul@gmail.com",
+      "photo": "https://i.pinimg.com/550x/31/23/2f/31232fe4b51b47763282524f008d9081.jpg",
+      "skillId": "1"
+    },
+    {
+      "id": 2,
+      "name": "edited",
+      "email": "edited@gmail.com",
+      "photo": "https://2793236.fs1.hubspotusercontent-na1.net/hub/2793236/hubfs/Blogs/5%20sites%20for%20free%20stock%20photos/stockfoto.jpg?width=1600&name=stockfoto.jpg",
+      "skillId": "2"
+    }
+  ],
+  "skill": [
+    {
+      "id": 1,
+      "name": "laravel Developer"
+    },
+    {
+      "id": 2,
+      "name": "MERN stack Developer"
+    },
+    {
+      "id": 3,
+      "name": "WP Developer"
+    },
+    {
+      "id": 4,
+      "name": "IOS Developer"
+    },
+    {
+      "id": 5,
+      "name": "Django Developer"
+    },
+    {
+      "id": 6,
+      "name": "PHP Developer"
+    },
+    {
+      "id": 7,
+      "name": "Python Developer"
+    }
+  ]
 }
